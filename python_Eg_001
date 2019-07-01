@@ -1,0 +1,14 @@
+import webbrowser
+strURL = "https://google.com"
+webbrowser.open(strURL, new=2) # new=0-- same browser
+							   # new=1-- new browser
+							   # new=2-- in same tab
+
+webbrowser.get('firefox').open_new_tab('https://ajiahamed.com')
+webbrowser.get('chrome').open_new_tab('https://nixntronics.in')
+
+
+********************************************************************
+https://www.csestack.org/code-python-to-open-url-in-browser/
+python -m SimpleHTTPServer #default port 8080 p2x
+python -m http.server p3x
