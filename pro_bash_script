@@ -86,3 +86,7 @@ while inotifywait -r -e modify,create,delete $origen
 do     
      rsync -avz $origen/ $destination --delete --filter='P .git' 
 done</pre>
+
+
+
+https://linuxhint.com/inotofy-rsync-bash-live-backups/
