@@ -68,7 +68,13 @@ https://maker.pro/esp8266/tutorial/how-to-program-an-esp8266-with-micropython
 https://www.dfrobot.com/forum/viewforum.php?f=20  
 
 https://www.indiegogo.com/projects/treerover-a-tree-planting-robot#/
-
-
-
+*****************************************************************************************
 https://vimawesome.com/plugin/molokai
+Commands
+*****************************************************************************************
+tar zxvf testing_001-19-19.tgz --one-top-level=001_19 --strip-components=1
+
+
+
+******************************************************************************************
+
