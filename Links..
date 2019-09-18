@@ -75,6 +75,17 @@ Commands
 tar zxvf testing_001-19-19.tgz --one-top-level=001_19 --strip-components=1
 
 
-
 ******************************************************************************************
+https://linuxconfig.org/how-to-create-a-ubuntu-repository-server
+https://askubuntu.com/questions/170348/how-to-create-a-local-apt-repository
+https://www.unixmen.com/setup-local-apt-repository-using-installation-media-in-debian-8/
+https://wiki.debian.org/DebianRepository/Setup
+https://manpages.debian.org/unstable/environment-modules/module.1.en.html
+https://lmod.readthedocs.io/en/latest/015_writing_modules.html
+
+
+*******************************************************************************************
+
+
+
 
