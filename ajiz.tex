@@ -1,0 +1,31 @@
+\documentclass{article}
+\usepackage{graphicx}
+
+\title{Title of my document}
+\date{2013-09-01}
+\author{John Doe}
+
+\begin{document}
+
+\maketitle
+\pagenumbering{gobble}
+\newpage
+\pagenumbering{arabic}
+
+\section{Section}
+
+Hello World!
+
+\subsection{Subsection}
+
+Structuring a document is easy!
+
+\begin{figure}
+  \includegraphics[width=\linewidth]{boat.jpg}
+  \caption{A boat.}
+  \lsbel{fig:boat1}
+\end{figure}
+
+Figure \ref{fig:boat1} shows a boat.
+
+\end{document}
