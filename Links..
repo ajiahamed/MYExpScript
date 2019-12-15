@@ -56,6 +56,7 @@ https://www.techcoil.com/blog/how-i-setup-jenkins-on-my-raspberry-pi-3-with-rasp
 Python
 *******************************************************************************
 https://docs.python-guide.org/writing/style/
+https://olivierpieters.be/blog/2015/11/06/python-scripting-and-latex
 
 SSH
 **********************************************************************************
@@ -89,11 +90,22 @@ https://lmod.readthedocs.io/en/latest/015_writing_modules.html
 *******************************************************************************************
 
 LateX
+*******************************************************************************************
 https://www.sharelatex.com/templates/cv-or-resume
 https://www.overleaf.com/latex/templates/tagged/cv/page/4
 https://www.latextemplates.com/cat/curricula-vitae
 https://zety.com/blog/latex-resume-template
+https://tex.stackexchange.com/questions/73016/how-do-i-install-an-individual-package-on-a-linux-system
 
+CV/Resume
+*******************************************************************************************
+https://tex.stackexchange.com/questions/80/latex-template-for-resume-curriculum-vitae?page=2&tab=votes#tab-top
+https://texblog.org/2012/04/25/writing-a-cv-in-latex/
+https://olivierpieters.be/tags/limecv
+https://tex.stackexchange.com/questions/233165/changing-the-size-of-this-latex-cv-template-from-a4-to-letter-size
+https://tex.stackexchange.com/questions/404041/problems-while-trying-to-compress-into-a-single-page-the-following-cv-template
+
+https://tex.stackexchange.com/questions/167366/combining-multirow-and-multicolumn
 https://enhancv.com/resume-examples/system-administrator/
 
 https://ctan.org/tex-archive/macros/latex/contrib/moderncv/
